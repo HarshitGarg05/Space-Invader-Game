@@ -14,16 +14,6 @@ A retro-style **Space Invaders** arcade game built using **Pygame**, featuring c
 - ⏸️ Pause menu with in-game control guide
 - 📈 Dynamic level scaling with increasing challenge
 
-## 📦 Requirements
-
-- Python 3.x
-- `pygame` library
-
-Install with:
-
-```bash
-pip install pygame
-
 ## ▶️ Controls
 
 - **Left / Right Arrows** – Move ship  
@@ -50,3 +40,16 @@ pip install pygame
 ## 🧠 Inspiration
 
 A mix of retro gaming nostalgia and beginner-friendly Python game development.
+
+
+## 📦 Requirements
+
+- Python 3.x
+- `pygame` library
+
+Install with:
+
+```bash
+pip install pygame
+
+
