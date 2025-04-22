@@ -23,3 +23,30 @@ Install with:
 
 ```bash
 pip install pygame
+
+## ▶️ Controls
+
+- **Left / Right Arrows** – Move ship  
+- **Spacebar** – Fire bullets  
+- **P** – Pause / Resume  
+- **M** – Toggle music  
+- **C** – View controls  
+- **R** – Restart after game over  
+- **N** – Next level after level complete  
+- **Q** – Quit (from pause menu)  
+
+## 🗂️ Project Structure
+
+- `final.py` – Main game logic  
+- `img/` – Folder for images and sound assets  
+- `highscore.json` – Automatically saved high score file  
+
+*If assets are missing, the game uses placeholder graphics and silent fallbacks.*
+
+## 📸 Screenshots
+
+*Add screenshots or gameplay GIFs here if desired.*
+
+## 🧠 Inspiration
+
+A mix of retro gaming nostalgia and beginner-friendly Python game development.
