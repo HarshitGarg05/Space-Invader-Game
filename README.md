@@ -33,10 +33,6 @@ A retro-style **Space Invaders** arcade game built using **Pygame**, featuring c
 
 *If assets are missing, the game uses placeholder graphics and silent fallbacks.*
 
-## 📸 Screenshots
-
-*Add screenshots or gameplay GIFs here if desired.*
-
 ## 🧠 Inspiration
 
 A mix of retro gaming nostalgia and beginner-friendly Python game development.
